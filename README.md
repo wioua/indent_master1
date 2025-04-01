@@ -121,7 +121,3 @@ console.log(awfulTmpl + "\n\n" + prettyTmpl);
   var bootstrap = require("bootstrap");
 })();
 ```
-
-## License
-
-MIT
