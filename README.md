@@ -17,10 +17,6 @@
 
 An ES6 string tag that makes indentation right, adds some key features to [dedent](https://github.com/dmnd/dedent).
 
-## Migrate
-
-Because I lost my 2 factor authentic token, this project has moved to https://github.com/zhouhanseng/endent
-
 ## Feature
 
 ### Pretty object
